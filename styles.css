@@ -1,0 +1,36 @@
+* {
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.intro {
+  margin-left: 7.5%;
+}
+
+.content {
+  margin-left: 7.5%;
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.outro {
+  margin-left: 7.5%;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.box {
+  height:250px;
+  width:250px;
+  padding-top:0;
+  padding-left:10px;
+  margin-right:20px;
+  margin-bottom:20px;
+  border-radius: 10px;
+  background-color: #F8F8F8;
+}
